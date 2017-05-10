@@ -1,0 +1,166 @@
+@charset "utf8";
+/*** Common ***/
+.aui #wrapper {
+  font-family: 游ゴシック体, 'Yu Gothic', YuGothic, 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+  line-height: 1.7;
+}
+
+/*** Typography ***/
+#wrapper h2 {
+  margin-bottom: .8em;
+}
+
+#wrapper div.lego-element {
+  font-size: 1.25em;
+}
+
+/*** Billboard ***/
+#article-225366942 {
+   height: 60vh;
+}
+
+#article-225366942 > .block-container {
+   margin-top: -12em;
+}
+
+#article-225366942 .max-med {
+  max-width: 100%;
+}
+
+#article-225366942 .lego-element {
+  margin-left: -1em;
+}
+
+#article-225366942 .text-left {
+  font-size: 1.4em;
+}
+
+#article-225366942 .btn {
+  margin-top: .5;
+}
+
+/*
+** Block 2
+** マーケティングのデジタル化で満足していませんか？
+*/
+#wrapper #article-225367541 .element-background {
+  background-color: #1c75b9;
+  color: #fff;
+}
+
+/*
+** Block 3
+** 欧米ではもはや常識？デジタルトランスフォーメーションとは
+*/
+#article-225369134 {
+  margin-bottom: 3em;
+}
+
+/*
+** Block 4
+*/
+#article-225370295 {
+  min-width: 840px;
+}
+
+#article-225370786 {
+  padding-bottom: 0;
+  padding-top: 0;
+}
+
+#article-225370786 h3 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1.5em;
+  font-weight: 300;
+}
+
+#article-225647547 {
+  font-size: 1.5em;
+  margin-bottom: 1em;
+  min-width: 100%;
+}
+
+/*
+** Block 5
+** 業界最高の評価を受賞
+*/
+#wrapper #article-225371006 .element-background {
+  background-color: #E7ECF5;
+  padding: 1.5em 0;
+}
+
+/*
+** Block 6
+** 例えばこんなソリューションをご提供しています
+*/
+#heading-225371681 > h2 {
+  margin: 1em 0;
+}
+
+/*
+** Block 7
+** 実績をもっと見る
+*/
+#article-225647167 .btn {
+  font-size: 1.25em;
+  margin: -2em 0;
+}
+
+/*
+** Block 8
+** サポートやコンサルティングもお任せください
+*/
+#article-225387671 {
+  padding-bottom: 2em;
+  padding-top: 6em;
+}
+
+#article-225387671 .exhibit-media {
+  margin-bottom: 1em;
+}
+
+#article-225387671 .exhibit-body p {
+  text-align: left;
+}
+
+/*
+** Block 9
+** コンサルのご予約・その他お問い合わせ
+*/
+#article-225390541 {
+  background-color: #1c75b9;
+  color: #fff;
+  padding: 3em 0;
+}
+
+#article-225390541 h2 {
+  margin-bottom: .5em;
+}
+
+#article-225390541 .max-med{
+  min-width: 840px;
+}
+
+#article-225390541 form {
+  display: block;
+  font-size: 1.25em;
+  text-align: center;
+}
+
+#article-225390541 label {
+  color: #ddd;
+}
+
+#article-225390541 input,
+#article-225390541 select {
+  border-color: #ddd;
+  color: #fff;
+}
+
+#article-225390541 form .form-col {
+  display: inline-block;
+  min-width: 360px;
+  padding: 0 .5skem;
+  vertical-align: top;
+  width: 360px;
+}
